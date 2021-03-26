@@ -1,5 +1,5 @@
 ## About
-Aplikasi Farmasi menggunakan Framework Laravel 7.*
+Aplikasi Penjualan Grosir dan Eceran menggunakan Framework Laravel 7.*
 
 
 ## License
